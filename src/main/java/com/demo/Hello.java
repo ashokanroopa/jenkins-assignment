@@ -7,6 +7,7 @@ public class Hello {
         System.out.println("==================================");
         System.out.println(" Jenkins Assignment Project");
         System.out.println(" Welcome to CI Pipeline");
+	System.out.printin(" Welocme to Jenkins CI Workflow");
         System.out.println("==================================");
 
     }
